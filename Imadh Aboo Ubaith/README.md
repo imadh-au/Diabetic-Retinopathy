@@ -29,7 +29,7 @@ We implemented a `tf.data` streaming pipeline with dynamic buffering and prefetc
 ### 3. Clinical Explainability (Grad-CAM)
 We don't just give a prediction; we show the evidence. Our model outputs a heatmap highlighting lesions, microaneurysms, or hemorrhages.
 
-![Grad-CAM Visualization](grad_cam_result.png)
+![Grad-CAM Visualization](graphs,matrics\grad_cam_result.png)
 *Figure 1: The model (center) identifies the specific regions of the retina (right) used to make the diagnosis.*
 
 ---
@@ -45,11 +45,11 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 | **Proliferative Precision** | **0.70** | High confidence in flagging severe cases |
 
 ### Training Stability
-![Training Graphs](training_graphs.png)
+![Training Graphs](graphs,matrics\training_graphs.png)
 *Figure 2: Training and validation loss converged effectively, demonstrating no significant overfitting.*
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](graphs,matrics\confusion_matrix.png)
 *Figure 3: Strong diagonal performance, particularly for "No DR" and "Proliferative" classes.*
 
 ---
@@ -79,3 +79,4 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 
 
 *"Eclipsing the darkness of preventable blindness through innovation."*
+
