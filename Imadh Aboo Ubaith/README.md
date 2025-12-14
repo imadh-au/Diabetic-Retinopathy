@@ -63,8 +63,9 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/diabetic-retinopathy.git](https://github.com/YourUsername/diabetic-retinopathy.git)
-    cd diabetic-retinopathy
+    git clone [https://github.com/imadh-au/Diabetic-Retinopathy.git](https://github.com/imadh-au/Diabetic-Retinopathy.git)
+    cd Diabetic-Retinopathy
+    cd "Imadh Aboo Ubaith"
     ```
 
 2.  Install dependencies:
@@ -75,9 +76,12 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 3.  Run the notebook:
     Open `Diabetic_Retinopathy_Training.ipynb` in Jupyter or Google Colab to see the training pipeline and inference demo.
 
+    "Engineering a clearer future, one pixel at a time." — Imadh Aboo Ubaith
+
 ---
 
 
 *"Eclipsing the darkness of preventable blindness through innovation."*
+
 
 
