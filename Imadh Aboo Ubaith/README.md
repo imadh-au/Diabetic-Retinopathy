@@ -1,5 +1,5 @@
 # 👁️ Efficient Diabetic Retinopathy Detection
-### by Team Eclipse 🌑
+### by Imadh Aboo Ubaith
 
 **Event:** GDGOC PIEAS AI/ML Hackathon 2025  
 **Focus:** Medical AI, Edge Computing, Explainability  
@@ -63,8 +63,8 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/diabetic-retinopathy-eclipse.git](https://github.com/YourUsername/diabetic-retinopathy-eclipse.git)
-    cd diabetic-retinopathy-eclipse
+    git clone [https://github.com/YourUsername/diabetic-retinopathy.git](https://github.com/YourUsername/diabetic-retinopathy.git)
+    cd diabetic-retinopathy
     ```
 
 2.  Install dependencies:
@@ -77,9 +77,5 @@ Our model was evaluated on a balanced validation set of nearly 7,000 images.
 
 ---
 
-## 👥 Team Eclipse
-* **Imadh Aboo Ubaith** - Lead AI Engineer
-
----
 
 *"Eclipsing the darkness of preventable blindness through innovation."*
